@@ -1,0 +1,16 @@
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\bin\Debug\net8.0-windows\ZI lab7.exe
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\bin\Debug\net8.0-windows\ZI lab7.deps.json
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\bin\Debug\net8.0-windows\ZI lab7.runtimeconfig.json
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\bin\Debug\net8.0-windows\ZI lab7.dll
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\bin\Debug\net8.0-windows\ZI lab7.pdb
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI_lab7.Form1.resources
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.csproj.GenerateResource.cache
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.AssemblyInfoInputs.cache
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.AssemblyInfo.cs
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.csproj.CoreCompileInputs.cache
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.dll
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\refint\ZI lab7.dll
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.pdb
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ZI lab7.genruntimeconfig.cache
+C:\Users\Одмен\source\repos\ZI lab7\ZI lab7\obj\Debug\net8.0-windows\ref\ZI lab7.dll
