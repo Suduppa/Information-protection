@@ -1,0 +1,16 @@
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.Form1.resources
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.csproj.GenerateResource.cache
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.AssemblyInfoInputs.cache
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.AssemblyInfo.cs
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.csproj.CoreCompileInputs.cache
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\bin\Debug\net8.0-windows\Deffe_Hellman.exe
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\bin\Debug\net8.0-windows\Deffe_Hellman.deps.json
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\bin\Debug\net8.0-windows\Deffe_Hellman.runtimeconfig.json
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\bin\Debug\net8.0-windows\Deffe_Hellman.dll
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\bin\Debug\net8.0-windows\Deffe_Hellman.pdb
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.dll
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\refint\Deffe_Hellman.dll
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.pdb
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\Deffe_Hellman.genruntimeconfig.cache
+C:\Users\Одмен\source\repos\Deffe_Hellman\Deffe_Hellman\obj\Debug\net8.0-windows\ref\Deffe_Hellman.dll
