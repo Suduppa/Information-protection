@@ -1,0 +1,10 @@
+C:\Users\Одмен\source\repos\vsh2\vsh2\obj\Debug\vsh2.csproj.AssemblyReference.cache
+C:\Users\Одмен\source\repos\vsh2\vsh2\obj\Debug\vsh2.Form1.resources
+C:\Users\Одмен\source\repos\vsh2\vsh2\obj\Debug\vsh2.Properties.Resources.resources
+C:\Users\Одмен\source\repos\vsh2\vsh2\obj\Debug\vsh2.csproj.GenerateResource.cache
+C:\Users\Одмен\source\repos\vsh2\vsh2\obj\Debug\vsh2.csproj.CoreCompileInputs.cache
+C:\Users\Одмен\source\repos\vsh2\vsh2\bin\Debug\vsh2.exe.config
+C:\Users\Одмен\source\repos\vsh2\vsh2\bin\Debug\vsh2.exe
+C:\Users\Одмен\source\repos\vsh2\vsh2\bin\Debug\vsh2.pdb
+C:\Users\Одмен\source\repos\vsh2\vsh2\obj\Debug\vsh2.exe
+C:\Users\Одмен\source\repos\vsh2\vsh2\obj\Debug\vsh2.pdb
